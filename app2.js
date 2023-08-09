@@ -1,6 +1,6 @@
-const num1=50;
+const num1=5;
 
-const num2=100;
+const num2=10;
 
 
 console.log("Sum: ")
